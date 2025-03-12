@@ -1,0 +1,149 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:1-یک_روز_با_انجمن  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:جلسات  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:2-ارائه_های_عید  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:4-افطاری  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:3-روز_لینوکس  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "file:All",
+      "color": {
+        "a": 1,
+        "rgb": 65297
+      }
+    },
+    {
+      "query": "file:Readme",
+      "color": {
+        "a": 1,
+        "rgb": 65297
+      }
+    },
+    {
+      "query": "path:اردوی_تهران  ",
+      "color": {
+        "a": 1,
+        "rgb": 6059222
+      }
+    },
+    {
+      "query": "path:CESSA_DAYS  ",
+      "color": {
+        "a": 1,
+        "rgb": 34047
+      }
+    },
+    {
+      "query": "path:CESSA_TALKS  ",
+      "color": {
+        "a": 1,
+        "rgb": 39214
+      }
+    },
+    {
+      "query": "path:12-کرسی  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711782
+      }
+    },
+    {
+      "query": "path:9-همایش_آی_او_تی  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:7-بازار_ساینو  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:8-سلام_صفری  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:11-افطاری2  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:10-بازدید_پیام_پرداز  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"13 -الیگما\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:6-تک_استک  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.90561643835616,
+  "lineSizeMultiplier": 1.59876712328767,
+  "collapse-forces": true,
+  "centerStrength": 0.149315068493151,
+  "repelStrength": 7.62035225048924,
+  "linkStrength": 0.368493150684932,
+  "linkDistance": 30,
+  "scale": 0.20454982062734253,
+  "close": false
+}

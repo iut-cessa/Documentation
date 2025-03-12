@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "fe596d268aa19e3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "986fcde7b3fa3946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3816f448f77c6350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All"
+            }
+          },
+          {
+            "id": "c1edf488858bd4ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "جلسات/هفتگی/10-1403-3-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-1403-3-13"
+            }
+          },
+          {
+            "id": "c2cdef96673d5cd3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0-Media/اصلاح_چارت.png"
+              },
+              "icon": "lucide-image",
+              "title": "اصلاح_چارت"
+            }
+          },
+          {
+            "id": "7027c7eca49c42a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5f716c1c9417c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e6d99167d74ce8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe448c7104b76b55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9359a9f94a2ca858",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35cb39ed2cd32651",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7bb7b7e76c5b9e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "74c959c76a577702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13883159e2fdfe66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "os.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for os"
+            }
+          },
+          {
+            "id": "d2618481c42dda25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "os.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from os"
+            }
+          },
+          {
+            "id": "9b2e48d438ab0230",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "27bbe463f1b41a57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "b7f3585222cf030d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5194f12f47ce9ccc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "0e4c14bde6055b26",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "7027c7eca49c42a3",
+  "lastOpenFiles": [
+    "All.md",
+    "0-Media/اصلاح_چارت.png",
+    "جلسات/آپا/اپاچی و ctf.md",
+    "جلسات/بقیه/بقیه_جلسات.md",
+    "جلسات/بقیه",
+    "13 -الیگما/الیگما.md",
+    "جلسات/هفتگی/10-1403-3-13.md",
+    "00-Naghsh.md",
+    "درس.md",
+    "6-تک_استک/تک_استک.md",
+    "0-Media/الیگما_تاریخ.png",
+    "0-Media/الیگما_پوستر.png",
+    "0-Media/الیگما.png",
+    "اسپاگتی_کد.md",
+    "4-افطاری1/افطاری1.md",
+    "1-یک_روز_با_انجمن/یک_روز_با_انجمن.md",
+    "13 -الیگما",
+    "جلسات/هفتگی/12-1403-9-10.md",
+    "جلسات/هفتگی/11-1403-7-14.md",
+    "0-Media/سلام_صفری.png",
+    "0-Media/سیسوگ.png",
+    "9-همایش_آی_او_تی/همایش_آی_او_تی.md",
+    "8-سلام_صفری/سلام_صفری.md",
+    "CESSA_TALKS/CESSA_TALKS.md",
+    "CESSA_TALKS/Event_Sourcing_And_CQRS.md",
+    "CESSA_DAYS/CESSA_DAYS.md",
+    "3-نرم_افزار_آزاد/نتیجه.md",
+    "3-نرم_افزار_آزاد/نرم_افزار_آزاد.md",
+    "0-Media/افطاری2.png",
+    "0-Media/انتخاب_بسته.png",
+    "0-Media/Generative_AI.png",
+    "0-Media/دومینو.png",
+    "12-کرسی/کرسی.md",
+    "12-کرسی/1-انیمه.md",
+    "12-کرسی/2-کتابخونی.md",
+    "12-کرسی/3-کار_و_تحصیل.md",
+    "10-بازدید_پیام_پرداز/بازدید_پیام_پرداز.md",
+    "12-کرسی",
+    "10-بازدید_پیام_پرداز",
+    "11-افطاری2",
+    "9-همایش_آی_او_تی",
+    "8-سلام_صفری",
+    "7-بازار_ساینو",
+    "CESSA_TALKS",
+    "0-Media/بلاکچین.mp4",
+    "4-افطاری1/Canv.canvas",
+    "1-یک_روز_با_انجمن/Canv.canvas"
+  ]
+}
