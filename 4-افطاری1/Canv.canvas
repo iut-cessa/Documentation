@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0582d1b842fed914","type":"file","file":"4-افطاری1/افطاری1.md","x":-320,"y":-600,"width":500,"height":1080},
+		{"id":"152cb7b9c168602b","type":"file","file":"4-افطاری1/جلسه با دکتر شایق.md","x":-320,"y":-1280,"width":1320,"height":560},
+		{"id":"a0947cbe868721e6","type":"file","file":"4-افطاری1/برنامه اولیه 3.md","x":-1080,"y":-440,"width":600,"height":1160},
+		{"id":"07f8949354ff1828","type":"file","file":"4-افطاری1/برنامه اولیه 2.md","x":340,"y":-600,"width":700,"height":1240},
+		{"id":"acfc4744986a93bf","type":"file","file":"4-افطاری1/برنامه اولیه 1.md","x":-1154,"y":-1160,"width":748,"height":632}
+	],
+	"edges":[
+		{"id":"8831837a9240f97a","fromNode":"0582d1b842fed914","fromSide":"left","toNode":"acfc4744986a93bf","toSide":"right"},
+		{"id":"497bf775575af829","fromNode":"0582d1b842fed914","fromSide":"top","toNode":"152cb7b9c168602b","toSide":"bottom"},
+		{"id":"2ec87486ab40f74a","fromNode":"0582d1b842fed914","fromSide":"right","toNode":"07f8949354ff1828","toSide":"left"},
+		{"id":"6a49d2eadb5d1189","fromNode":"0582d1b842fed914","fromSide":"bottom","toNode":"a0947cbe868721e6","toSide":"bottom"}
+	]
+}
