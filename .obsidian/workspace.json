@@ -8,47 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3816f448f77c6350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "All"
-            }
-          },
-          {
-            "id": "c1edf488858bd4ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "جلسات/هفتگی/10-1403-3-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10-1403-3-13"
-            }
-          },
-          {
-            "id": "c2cdef96673d5cd3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0-Media/اصلاح_چارت.png"
-              },
-              "icon": "lucide-image",
-              "title": "اصلاح_چارت"
-            }
-          },
-          {
             "id": "7027c7eca49c42a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All-402-403-404.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All-402-403-404"
+            }
+          },
+          {
+            "id": "9b639c626800b497",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -57,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +166,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -203,12 +176,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "0e4c14bde6055b26",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "80a7394319edcf6e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -242,14 +225,20 @@
   },
   "active": "7027c7eca49c42a3",
   "lastOpenFiles": [
-    "All.md",
+    "00-Naghsh.md",
+    "درس عبرت.md",
+    "12-کرسی/4-کارآموزی.md",
+    "Proposals.md",
+    "All-402-403-404.md",
+    "Readme.md",
+    "Proposals",
+    "CESSA_TALKS/CESSA_TALKS.md",
+    "جلسات/هفتگی/10-1403-3-13.md",
     "0-Media/اصلاح_چارت.png",
     "جلسات/آپا/اپاچی و ctf.md",
     "جلسات/بقیه/بقیه_جلسات.md",
     "جلسات/بقیه",
     "13 -الیگما/الیگما.md",
-    "جلسات/هفتگی/10-1403-3-13.md",
-    "00-Naghsh.md",
     "درس.md",
     "6-تک_استک/تک_استک.md",
     "0-Media/الیگما_تاریخ.png",
@@ -265,7 +254,6 @@
     "0-Media/سیسوگ.png",
     "9-همایش_آی_او_تی/همایش_آی_او_تی.md",
     "8-سلام_صفری/سلام_صفری.md",
-    "CESSA_TALKS/CESSA_TALKS.md",
     "CESSA_TALKS/Event_Sourcing_And_CQRS.md",
     "CESSA_DAYS/CESSA_DAYS.md",
     "3-نرم_افزار_آزاد/نتیجه.md",
@@ -276,9 +264,6 @@
     "0-Media/دومینو.png",
     "12-کرسی/کرسی.md",
     "12-کرسی/1-انیمه.md",
-    "12-کرسی/2-کتابخونی.md",
-    "12-کرسی/3-کار_و_تحصیل.md",
-    "10-بازدید_پیام_پرداز/بازدید_پیام_پرداز.md",
     "12-کرسی",
     "10-بازدید_پیام_پرداز",
     "11-افطاری2",
@@ -286,7 +271,6 @@
     "8-سلام_صفری",
     "7-بازار_ساینو",
     "CESSA_TALKS",
-    "0-Media/بلاکچین.mp4",
     "4-افطاری1/Canv.canvas",
     "1-یک_روز_با_انجمن/Canv.canvas"
   ]
